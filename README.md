@@ -4,3 +4,6 @@ Este programa únicamente **funciona** para la **Ciudad de Puebla**, además nec
 
 # Actualización
 La PROFECO ha deshabilitado la página donde subía la información de las gasolineras, por lo que al ser un proyecto viejo, la última actualización de los datos es del 8 de agosto de 2017 y no es posible una actualización con la misma URL.
+## Autor
+Brando Alberto Toribio García 
+- brando.tg24@hotmail.com
