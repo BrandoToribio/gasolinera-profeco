@@ -1,5 +1,5 @@
 # Consulta de gasolinera verificada
-El formulario nos permite ver qué gasolineras cercanas a nuestra ubicación se negaron a una verificación por parte de la PROFECO y en caso de no haberse negado, sabremos cuántas mangueras fueron verificadas y cuántas inmovilizadas. Al final podremos ver la ubicación de las cinco gasolineras más cercanas en Google maps.
+El formulario nos permite ver las cinco gasolineras más cercanas a nuestra ubicación que se negaron a una verificación por parte de la PROFECO o en caso de no haberse negado, sabremos cuántas de sus mangueras fueron verificadas y cuántas inmovilizadas. Al final podremos ver la ubicación de las gasolineras en Google maps.
 Este programa únicamente **funciona** para la **Ciudad de Puebla**, además necesita conexión a internet para la consulta.
 
 # Actualización
